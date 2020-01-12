@@ -15,3 +15,6 @@ The player is represented by a blue ball.
 • Press the X key to play a small soundbyte.
 
 My next project involving Pico-8 will be to make something with more depth, this project was just a test.
+
+#### Play it here
+https://joshuaramey.github.io/Pico-8-Test/
